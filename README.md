@@ -1,5 +1,6 @@
 # Portfolio
 **Scott Cohn**
+Contact me: [scottkcohn@gmail.com](scottkcohn@gmail.com)
 
 This repo highlights some work in data cleaning, analysis, visualization, and communication.
 
