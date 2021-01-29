@@ -1,7 +1,10 @@
 # Portfolio
 **Scott Cohn**
 
-Contact me: [scottkcohn@gmail.com](mailto:scottkcohn@gmail.com?subject=[GitHub]%20Portfolio)
+- Email: [scottkcohn@gmail.com](mailto:scottkcohn@gmail.com?subject=[GitHub]%20Portfolio)
+- LinkedIn: [scottkcohn](https://www.linkedin.com/in/scottkcohn/)
+
+## 
 
 This repo highlights some work in data cleaning, analysis, visualization, and communication.
 
