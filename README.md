@@ -69,4 +69,5 @@ Sections to be added:
 
 1. AmeriCorps Completion (2700 hrs of Community Service)
     - See certificate [here](https://github.com/scottcohn97/AmeriCorpsCert/blob/main/AmeriCorpsCertificiate.pdf)
-
+2. Viral Tweet
+    - See [here](https://twitter.com/ScottCohn97/status/1309705217458479104?s=20)
