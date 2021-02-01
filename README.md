@@ -8,6 +8,11 @@
 
 This repo highlights some work in data cleaning, analysis, visualization, and communication.
 
+Sections to be added:
+    - Causal Inference (work from current semester)
+    - Additions the the ML section (again, ... this semester)
+    - Writing Sample (TBD)
+
 ### Data Cleaning
 
 1. Text Mining
