@@ -34,6 +34,7 @@ This repo highlights some work in data cleaning, analysis, visualization, and co
     - See the following repos
       + [`schmelz_bowles`](https://github.com/scottcohn97/schmelz_bowles/blob/main/bowles_schmelz.ipynb)
       + [`UAA_U16_philly`](https://github.com/scottcohn97/UAA_U16_philly)
+      + [`TidyTuesday`](https://github.com/scottcohn97/TidyTuesday/tree/main/Oct_29_squirrels)
   
 ### Machine Learning
 
@@ -46,8 +47,10 @@ This repo highlights some work in data cleaning, analysis, visualization, and co
 
 1. Memo resolving conflict between R and Excel output
     - See my repo [`drug_markup`](https://github.com/scottcohn97/drug_markup)
-2. Internal Review Board (IRB) Submission -- Approved
-     - See my repo [`soccohciveng_ug_thesis`](https://github.com/scottcohn97/soccohciveng_ug_thesis/tree/master/Appendix) for IRB documents.
+2. Slides I created for a PhD course presentation on apartheid in South Africa
+    - See [here](https://github.com/scottcohn97/ec700/blob/main/Ec700_SA_Labor_Slides.pdf)
+3. Internal Review Board (IRB) Submission -- Approved
+    - See my repo [`soccohciveng_ug_thesis`](https://github.com/scottcohn97/soccohciveng_ug_thesis/tree/master/Appendix) for IRB documents.
 
 ### SQL
 
