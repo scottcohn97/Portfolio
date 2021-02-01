@@ -58,4 +58,9 @@ This repo highlights some work in data cleaning, analysis, visualization, and co
     - See my repo [`nba_sql`](https://github.com/scottcohn97/nba_sql/blob/main/nba-sql.ipynb)
 2. Convert stata `.dta` files to a SQL db using MySQL
     - See my repo [`wooldridge_sql`](https://github.com/scottcohn97/wooldridge_sql)
-  
+ 
+### Misc.
+
+1. AmeriCorps Completion (2700 hrs of Community Service)
+    - See certificate [here](https://github.com/scottcohn97/AmeriCorpsCert/blob/main/AmeriCorpsCertificiate.pdf)
+
