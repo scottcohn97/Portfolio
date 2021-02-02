@@ -45,7 +45,7 @@ Sections to be added:
 ### Machine Learning
 
 1. Using KNN for hedonic price model
-    - See Q4 [here](https://github.com/scottcohn97/datamining_pset/blob/main/exercise01/ex01.Rmd) and the PDF [here](https://github.com/scottcohn97/datamining_pset/blob/main/exercise01/ex01.pdf). 
+    - See notebook [here](https://github.com/scottcohn97/datamining_pset/blob/main/exercise01/knn_price.ipynb) and the PDF [here](https://github.com/scottcohn97/datamining_pset/blob/main/exercise01/ex01.pdf). 
 2. *Evolution of wealth inequality in simulated networks* (Network simulation / Game theory)
     - See my repo [stat535](https://github.com/scottcohn97/stat535)
 
