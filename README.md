@@ -38,7 +38,7 @@ Sections to be added:
 ### Data Visualization
 
 1. Graphic made for publication in *Econometrica*
-    - See my repo [`econometric_bowles_2020`](https://github.com/scottcohn97/econometrica_bowles_2020).
+    - See my repo [`econometrica_bowles_2020`](https://github.com/scottcohn97/econometrica_bowles_2020).
 2. R `ggplot`
     - See the following repos
       + [`schmelz_bowles`](https://github.com/scottcohn97/schmelz_bowles/blob/main/bowles_schmelz.ipynb)
