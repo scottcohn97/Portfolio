@@ -14,8 +14,8 @@ This repo highlights some work in data cleaning, analysis, visualization, and co
 
 Sections to be added:
 
-- Additions the the ML section (again, ... this semester)
-- Writing Sample (TBD)
+- Additions the the ML section 
+- Writing Sample 
 
 ### Data Cleaning
 
