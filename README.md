@@ -12,7 +12,6 @@ This repo highlights some work in data cleaning, analysis, visualization, and co
 
 Sections to be added:
 
-- Causal Inference (work from current semester)
 - Additions the the ML section (again, ... this semester)
 - Writing Sample (TBD)
 
@@ -44,6 +43,12 @@ Sections to be added:
       + [`UAA_U16_philly`](https://github.com/scottcohn97/UAA_U16_philly)
       + [`TidyTuesday`](https://github.com/scottcohn97/TidyTuesday/tree/main/Oct_29_squirrels)
   
+### Causal Inference
+
+1. Regression Discontinuity
+    - See my repository [`hansen2015_RDD_replication`](https://github.com/scottcohn97/hansen2015_RDD_replication/blob/main/Code/hansen_rdd.md)
+2. Ask me about my current work! (Currently private repositories)
+    
 ### Machine Learning
 
 1. Comparing linear and KNN models with `tidymodels`
