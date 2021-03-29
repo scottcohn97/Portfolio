@@ -68,11 +68,12 @@ Sections to be added:
 
 ### Communication
 
-1. Memo resolving conflict between R and Excel output
+1. [Slides](https://slides.com/simondhalliday/teaching_inequality) on teaching inequality in the 21st century in economics coursework
+3. Memo resolving conflict between R and Excel output
     - See my repo [`drug_markup`](https://github.com/scottcohn97/drug_markup)
-2. Slides I created for a PhD course presentation on apartheid in South Africa
+4. Slides I created for a PhD course presentation on apartheid in South Africa
     - See [here](https://github.com/scottcohn97/ec700/blob/main/Ec700_SA_Labor_Slides.pdf)
-3. Internal Review Board (IRB) Submission -- Approved
+5. Internal Review Board (IRB) Submission -- Approved
     - See my repo [`soccohciveng_ug_thesis`](https://github.com/scottcohn97/soccohciveng_ug_thesis/tree/master/Appendix) for IRB documents.
 
 ### SQL
