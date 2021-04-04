@@ -62,7 +62,7 @@ Sections to be added:
     - See [this script](https://github.com/scottcohn97/datamining_pset/blob/main/exercise03/california_housing.R) for prediction of housing prices in California
     - See notebook [here](https://github.com/scottcohn97/datamining_pset/blob/main/exercise01/knn_price.ipynb) and the PDF [here](https://github.com/scottcohn97/datamining_pset/blob/main/exercise01/ex01.pdf) for Mercedes car prices. 
 3. Tree-based models 
-    - See [this script](https://github.com/scottcohn97/datamining_pset/blob/main/exercise03/greenbuildings.R) on predicting *revenue per sq ft* for buildings with a LEED designation
+    - See [this script](https://github.com/scottcohn97/datamining_pset/blob/main/exercise03/greenbuildings.R) on predicting *revenue per sq ft* for buildings with a LEED designation with visualization [here](https://github.com/scottcohn97/datamining_pset/blob/main/exercise03/ex03.md)
 4. *Evolution of wealth inequality in simulated networks* (Network simulation / Game theory)
     - See my repo [stat535](https://github.com/scottcohn97/stat535)
 
