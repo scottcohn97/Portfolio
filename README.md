@@ -51,6 +51,8 @@ Sections to be added:
     - See my repository [`hansen2015_RDD_replication`](https://github.com/scottcohn97/hansen2015_RDD_replication/blob/main/Code/hansen_rdd.md)
 2. IV Estimation and Panel Data
     - See [this repository](https://github.com/scottcohn97/econometrics_eco394m) on some selected econometrics coursework
+3. Propensity score matching, application to job training programs
+    - See [this repository](https://github.com/scottcohn97/abadie_replication)
 4. Ask me about my current work! (Currently private repositories)
     
 ### Machine Learning
