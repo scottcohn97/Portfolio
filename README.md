@@ -4,7 +4,7 @@
 - Email: [scottkcohn@gmail.com](mailto:scottkcohn@gmail.com?subject=[GitHub]%20Portfolio)
 - LinkedIn: [scottkcohn](https://www.linkedin.com/in/scottkcohn/)
 
-The construction of this portfolio is under development, so please reach out if you have any questions or want to chat about something listed here. Schedule a 15 or 30-minute [meeting with me here](https://calendly.com/scottkcohn).
+The construction of this portfolio is under development, so please reach out if you have any questions or want to chat about something listed here. Schedule a 30-minute [meeting with me here](https://calendly.com/scottkcohn).
 
 See my current resume [here](https://github.com/scottcohn97/Portfolio/blob/main/scottcohn_resume.pdf).
 
