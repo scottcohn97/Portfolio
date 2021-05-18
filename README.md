@@ -12,11 +12,6 @@ See my current resume [here](https://github.com/scottcohn97/Portfolio/blob/main/
 
 This repo highlights some work in data cleaning, analysis, visualization, and communication.
 
-Sections to be added:
-
-- Additions the the ML section 
-- Writing Sample 
-
 ### Data Cleaning
 
 1. Text Mining
